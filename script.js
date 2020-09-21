@@ -105,13 +105,3 @@ function rotateCoin() {
   w += change;
   w2 += change;
 }
-
-// function rotateCoin() {
-//     if (w == 20){
-//       w--;
-//     }
-//     else if (w == 0) {
-//     w++;
-//     }
-// }
-
